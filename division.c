@@ -2,9 +2,9 @@
 
 int main()
 {
-    int r = division(0,15,0);
+    int r = division(0,15,0); 
     if(r != -1){
-
+ 
         printf("El resultado de la div es: %d\n\n", r);
     }else{
 
